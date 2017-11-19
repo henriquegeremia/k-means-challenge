@@ -1,2 +1,2 @@
 # k-means-challenge
-desafio de desenvolver um algoritmo de k-means // challenge of creating a k-means algorithm
+challenge of creating a k-means algorithm // desafio de desenvolver um algoritmo de k-means
